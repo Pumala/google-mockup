@@ -39,7 +39,7 @@ input:focus {
   text-align: center;
 }
 
-.button-div a {
+.button-div button {
   font-weight: bold;
   font-size: .7em;
   border: none;
@@ -48,22 +48,9 @@ input:focus {
   padding: 9px 14px;
   border: 1px solid #f3f3f3;
   margin: 1.5px;
+  cursor: pointer;
 }
-.button-div a:hover {
+.button-div button:hover {
   border: 1px solid lightgray;
   color: #000;
 }
-/*.sales {
-  text-align: left;
-}
-.terms {
-  text-align: right;
-}
-ul {
-  list-style: none;
-  display: inline-block;
-  padding: 0;
-}
-li {
-  display: inline-block;
-}*/
