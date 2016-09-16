@@ -1,7 +1,6 @@
 .container {
   max-width: 450px;
   margin: 100px auto;
-  /*text-align: center;*/
 }
 .img-div {
   width: inherit;
@@ -54,17 +53,3 @@ input:focus {
   border: 1px solid lightgray;
   color: #000;
 }
-/*.sales {
-  text-align: left;
-}
-.terms {
-  text-align: right;
-}
-ul {
-  list-style: none;
-  display: inline-block;
-  padding: 0;
-}
-li {
-  display: inline-block;
-}*/
